@@ -1,0 +1,122 @@
+body {
+    direction: rtl;
+    background: url(../images/istockphoto-534129348-612x612.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#container {
+    width: 960px;
+    margin: 0 auto;
+}
+#img {
+    float: left;
+    margin-left: 75px;
+    margin-top: 20px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+nav ul li {
+    display: inline-block;
+    float: right;
+}
+nav ul {
+    list-style: none;
+}
+    nav ul li {
+        display: block;
+        background-color: black;
+        color: white;
+        width: 140px;
+        height: 20px;
+        padding-top: 15px;
+        padding-right: 15px;
+        padding-bottom: 10px;
+        padding-left: 15px;
+        text-decoration: none;
+        text-align: center;
+        font-weight: 700;
+        font-size: initial;
+        margin-top: 60px;
+    }
+        nav ul li:hover {
+            display: block;
+            background-color: black;
+            color: gainsboro;
+            width: 140px;
+            height: 20px;
+            padding-top: 15px;
+            padding-right: 15px;
+            padding-bottom: 10px;
+            padding-left: 15px;
+            text-decoration: none;
+            text-align: center;
+            font-weight: 700;
+            font-size: initial;
+            margin-top: 60px;
+            -webkit-transition: all 40ms ease-in;
+            -moz-transition: all 40ms ease-in;
+            -ms-transition: all 40ms ease-in;
+            -o-transition: all 40ms ease-in;
+            transition: all 40ms ease-in;
+        }
+a {
+    text-decoration: none;
+    color: white;
+}
+h1 {
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 30px;
+    font-size: xx-large;
+}
+.PP {
+    margin-bottom: 20px;
+    font-size: large;
+    font-weight: bold;
+}
+.Pp {
+    margin-bottom: 20px;
+    font-size: large;
+    font-weight: bold;
+}
+h2 {
+    text-align: right;
+    padding-top: 45px;
+    padding-bottom: 27px;
+    font-size: x-large;
+}
+#image {
+    margin-bottom: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#vid {
+    text-decoration: none;
+    color: darkblue;
+}
+iframe {
+    margin-bottom:20px;
+    margin-top: 20px;
+}
+table {
+    border-collapse: inherit;
+    margin-top: 30px;
+    -webkit-border-horizontal-spacing: 50px;
+    -webkit-border-vertical-spacing: 20px;
+}
+th {
+    font-size: large;
+    font-weight: bold;
+    vertical-align: middle;
+}
+.img {
+    margin-top: 40px;
+    position: absolute;
+    clip: rect(0px,580px,769px,12px);
+    padding-right: 183px;
+}
